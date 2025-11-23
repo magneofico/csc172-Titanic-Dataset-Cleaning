@@ -1,0 +1,9 @@
+.DS_Store
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
+.venv/
+*.env
+.env*
+data/cleaned_dataset.csv
+.vscode/

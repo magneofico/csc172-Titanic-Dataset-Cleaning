@@ -84,7 +84,7 @@
 
 **Key finding:** Correlation analysis shows cleaning improved data quality—stronger relationships detected after imputation and outlier treatment (e.g., Fare ↔ survival correlation increased from 0.257 → 0.317).
 
-**Video:** [Project walkthrough](https://youtu.be/E4jfzzuy42E)
+**Video:** [Titanic Dataset - Data Cleaning (CSC172 Data Mining)](https://youtu.be/E4jfzzuy42E)
 
 ---
 

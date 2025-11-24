@@ -84,7 +84,7 @@
 
 **Key finding:** Correlation analysis shows cleaning improved data quality—stronger relationships detected after imputation and outlier treatment (e.g., Fare ↔ survival correlation increased from 0.257 → 0.317).
 
-**Video:** [Add your 2–3 min demo link here—show data before/after, explain one cleaning step]
+**Video:** [Project walkthrough](https://youtu.be/E4jfzzuy42E)
 
 ---
 
@@ -116,6 +116,7 @@ jupyter lab  # or: jupyter notebook
 git init
 git add .
 git commit -m "Init: scaffold for CSC172 data cleaning (Titanic)"
+
 # Create a public repo named exactly csc172-data-cleaning-<lastname> on GitHub
 git branch -M main
 git remote add origin https://github.com/<your-username>/csc172-data-cleaning-<lastname>.git
